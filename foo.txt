@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-Sunday
-=======
-Saturday Sunday
->>>>>>> 1cbdb05 (fixed foo in fix1)
+
+Friday Saturday Sunday
 Jaden Livingston
+Fun about to begin
 Groundhog day
+Change from someone else
+
