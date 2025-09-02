@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello you people, Glad you could join them
+=======
+Hello Jaden Livingston, Glad you could join them
+>>>>>>> newfeature2
 Welcome Back
 Roundabout
